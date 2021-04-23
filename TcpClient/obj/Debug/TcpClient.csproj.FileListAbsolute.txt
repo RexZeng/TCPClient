@@ -1,0 +1,5 @@
+D:\RexZeng\TcpClient\TcpClient\bin\Debug\TcpClient.exe.config
+D:\RexZeng\TcpClient\TcpClient\bin\Debug\TcpClient.exe
+D:\RexZeng\TcpClient\TcpClient\bin\Debug\TcpClient.pdb
+D:\RexZeng\TcpClient\TcpClient\obj\Debug\TcpClient.exe
+D:\RexZeng\TcpClient\TcpClient\obj\Debug\TcpClient.pdb
